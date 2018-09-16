@@ -1,8 +1,5 @@
 # 2D-Portals-concept
 A 2D representation of the concept used to design portals (Inspired by the video game "Portal").
-using UnityEngine;
-using System.Collections;
-using System.Collections.Generic;
 
 public class Portal {
 	
